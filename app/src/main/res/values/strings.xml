@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lista</string>
+    <string-array name="articles">
+        <item>
+            <item>1</item>
+            <item>Pain</item>
+            <item>2</item>
+        </item>
+    </string-array>
+</resources>
+
+
+
